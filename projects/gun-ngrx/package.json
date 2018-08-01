@@ -1,0 +1,14 @@
+{
+  "name": "@fluidnotion/gun-ngrx",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "dependencies": {
+    "core-js": "^2.5.4",
+    "gun": "^0.9.9998",
+    "lodash": "^4.17.10",
+    "rxjs": "^6.0.0"
+  }
+}
