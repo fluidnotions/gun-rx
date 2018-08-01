@@ -9,9 +9,9 @@
     "e2e": "ng e2e",
     "build:lib": "ng build --prod gun-ngrx",
     "pack:lib": "cd dist/gun-ngrx && npm pack",
-    "package": "npm run build:lib && npm run pack:lib"    
+    "package": "npm run build:lib && npm run pack:lib"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^6.0.2",
     "@angular/common": "^6.0.2",
